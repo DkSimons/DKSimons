@@ -18,7 +18,7 @@
   Welcome to DKSimons's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<h3 align="center">My name is Simoon, and I'm a Fullstack Developer</h3>
+<h3 align="center">My name is Simon, and I'm a Fullstack Developer</h3>
 
 
 
@@ -54,7 +54,7 @@
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
 
-<p  align="center"><!--<img  src="https://github-readme-stats.vercel.app/api?username=bellsofaba&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true"  alt="GitHub stats" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellsofaba&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true" alt="Top Langs" /><br /><br />--><img src="https://github-readme-streak-stats.herokuapp.com/?user=bellsofaba&theme=tokyonight_duo&hide_border=true" alt="bellsofaba's readme streaks" />
+<p  align="center"><!--<img  src="https://github-readme-stats.vercel.app/api?username=dksimons&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true"  alt="GitHub stats" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dksimons&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true" alt="Top Langs" /><br /><br />--><img src="https://github-readme-streak-stats.herokuapp.com/?user=DkSimons&theme=tokyonight_duo&hide_border=true" alt="DkSimons's readme streaks" />
 
 </p>
 
@@ -90,12 +90,6 @@
 
 <h1  align=center>🤘🏻🥳Don't Be A Stranger, Connect🥳🤘🏻</h1>
 
-<p align="center">
-<a href="https://dev.to/bellsofaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/bellsofaba" height="30" width="40" /></a>
-<a href="https://twitter.com/bellsofaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bellsofaba" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bellsofaba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bellsofaba/" height="30" width="40" /></a>
-<a href="https://bellsofaba.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://bellsofaba.hashnode.dev/" height="30" width="40" /></a>
-</p>
 
 
 <p align="center">
